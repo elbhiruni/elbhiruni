@@ -2,7 +2,7 @@
 
 I am **El Bhiruni**, a passionate **Frontend Developer** from Indonesia. I am a tech enthusiast who likes to repair a Computer.
 
-- 🔭 I’m currently training on **IDCamp** as **Front-End Web Developer**
+- 🔭 I’m currently learning on **Dicoding** path **Front-End Web Developer** from **IDCamp**
 - 🌱 I’m currently learning **React**, **Next.js**
 - 💬 Ask me about **Frontend Development** and **Computer Problem**
 
