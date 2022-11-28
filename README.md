@@ -3,7 +3,7 @@
 I am **El Bhiruni**, a passionate **Frontend Developer** from Indonesia. I am a tech enthusiast who likes to repair a Computer.
 
 - 🔭 I’m currently learning on **freeCodeCamp** and **The Odin Project**
-- 🌱 I’m currently learning **React**, **Next.js**, **Vue.js**
+- 🌱 I’m currently learning **React**, **Next.js**, **Vue.js**, **Nuxt.js**
 - 💬 Ask me about **Frontend Development** and **Computer Problem**
 
 <a href="https://www.linkedin.com/in/elbhiruni/" target="_blank">
