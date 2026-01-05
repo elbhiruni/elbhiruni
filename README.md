@@ -3,7 +3,7 @@
 I am **El Bhiruni**, a passionate **Full Stack Developer** from Indonesia. I am a tech enthusiast who likes to repair a Computer.
 
 - 🔭 I’m currently learning on **roadmap.sh**
-- 🌱 I’m currently learning **Go**, **QA**
+- 🌱 I’m currently learning **Go**, **React Native**
 - 💬 Ask me about **Frontend Development** and **Computer Problem**
 
 <a href="https://www.linkedin.com/in/elbhiruni/" target="_blank">
